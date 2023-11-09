@@ -3,7 +3,7 @@
 
 
 <div>
-<h1> Calculadora de PHP</h1>
+<h1> Calculadora de PHP prueba 01</h1>
 <h2>En el siguiente formulario debe introducir dos numeros para realizar una operacion matematica</h2>
 </div>
 
